@@ -1,4 +1,4 @@
-# IPL-win-Probability-Predictor
+# IPL-Win-Probability-Predictor
 [![Data kaggle](https://img.shields.io/badge/Data-Kaggle-blueviolet)](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set) 
              [![scikitlearn](https://img.shields.io/badge/Scikit--learn-1.0.2-orange)](https://scikit-learn.org/stable/tutorial/index.html) 
              [![Python 3.10.0](https://img.shields.io/badge/Python-3.10.0-brightgreen)](https://www.python.org/downloads/release/python-3100/) 
