@@ -12,4 +12,13 @@
             required to predict the probability. It will show the Probability of win the match for both teams based on all 
             previous record.
 
-#steps :  "DataCollection🗂️", "Preprocessing👨‍💻", "Model Build🤖",'Website Build🌐','Deployment🎯
+steps :  "DataCollection🗂️", "Preprocessing👨‍💻", "Model Build🤖", "Website Build🌐", "Deployment🎯"
+
+- DataSet is collected from [Kaggle](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)
+- Build the model using LogisticRegression algorithm.
+- Website build using [Python](https://www.python.org/downloads/release/python-3100/) and [streamlit](https://docs.streamlit.io/).
+- Then Application is deployed in [Heroku](https://devcenter.heroku.com/categories/reference) cloud server
+
+Note : For all code check the [IPL-Win-probability-prediction](https://github.com/Rafikul10/IPL-win-Probability-Predictor) repositories.
+
+Web Application Link : 
