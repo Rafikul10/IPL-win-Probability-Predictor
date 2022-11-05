@@ -12,4 +12,4 @@
             required to predict the probability. It will show the Probability of win the match for both teams based on all 
             previous record.
 
-**steps : ** "DataCollection🗂️", "Preprocessing👨‍💻", "Model Build🤖",'Website Build🌐','Deployment🎯
+#steps :  "DataCollection🗂️", "Preprocessing👨‍💻", "Model Build🤖",'Website Build🌐','Deployment🎯
