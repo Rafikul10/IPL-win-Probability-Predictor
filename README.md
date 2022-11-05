@@ -12,6 +12,17 @@
             required to predict the probability. It will show the Probability of win the match for both teams based on all 
             previous record.
 
+Dependencies :
+- Jupyter Notebook 
+- Scikit-learn 1.0.2
+- Streamlit 1.14.0
+- Python 3.10.0 
+- Pandas
+- Numpy
+
+Install dependencies using [conda](https://docs.conda.io/en/latest/)
+
+---
 steps :  "DataCollection🗂️", "Preprocessing👨‍💻", "Model Build🤖", "Website Build🌐", "Deployment🎯"
 
 - DataSet is collected from [Kaggle](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)
@@ -21,6 +32,7 @@ steps :  "DataCollection🗂️", "Preprocessing👨‍💻", "Model Build🤖",
 
 Note : For all code check the [IPL-Win-probability-prediction](https://github.com/Rafikul10/IPL-win-Probability-Predictor) repositories.
 
+---
 Web Application Link : https://ipl-winner-predictor-sys.herokuapp.com
 
 _My vision for build this Web Application is to predict the winner before end of any match, don't misuse of this Web Application._ Thank You!❤️
